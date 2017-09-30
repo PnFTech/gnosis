@@ -21,7 +21,8 @@ environment, and **CUDA** libraries for working with both **flynn** and
 **nvidia-docker**. This keeps your local host machine clean, and allows for
 the build process to be cross platform. *This containerized build environment
 is then perfect for developers who want to modify the source code, and need
-a build environment to develop in (see the [Developing]() section).*
+a build environment to develop in (see the
+[Developing](https://github.com/RagingTiger/gnosis#developing) section).*
 
 ## Developing
 After building the initial *docker image*, the same image can be used to
