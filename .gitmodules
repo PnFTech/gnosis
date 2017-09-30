@@ -1,0 +1,6 @@
+[submodule "src/github.com/NVIDIA/nvidia-docker"]
+	path = src/github.com/NVIDIA/nvidia-docker
+	url = https://github.com/NVIDIA/nvidia-docker
+[submodule "src/github.com/flynn/flynn"]
+	path = src/github.com/flynn/flynn
+	url = https://github.com/flynn/flynn
